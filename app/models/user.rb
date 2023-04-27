@@ -10,4 +10,6 @@ class User < ApplicationRecord
   validates :nick_name, presence: true
   validates :age, presence: true
 
+  has_many :item
+
 end
