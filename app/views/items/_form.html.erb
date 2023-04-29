@@ -1,0 +1,25 @@
+<%= form_with model: @item, local: true do |f|%>
+  <div class="field">
+    <%= f.label :brand_name, "ブランドの名前" %><br />
+    <%= f.text_field :brand_name, id:"prototype_title" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :product_name, "商品の名前" %><br />
+    <%= f.text_field :product_name,  id:"prototype_catch_copy" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :category_id, "カテゴリー" %><br />
+    <%= f.text_field :category_id,  id:"prototype_concept" %>
+  </div>
+
+  <div class="field">
+    <%= f.label :price, "価格（税込）" %><br />
+    <%= f.text_field :price, id:"prototype_image" %>
+  </div>
+
+  <div class="actions">
+    <%= f.submit " 投稿する", class: :form__btn  %>
+  </div>
+<% end %>
