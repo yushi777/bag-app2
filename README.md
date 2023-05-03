@@ -1,28 +1,19 @@
-# README
+# アプリケーション名
+#### bag-app2
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# アプリケーション概要
+#### バッグを購入する際に実際に使用したユーザーの口コミ等を確認し購入時に役立てることができる。
 
-Things you may want to cover:
+# URL
+#### https://bag-app2.onrender.com/
 
-* Ruby version
+# 利用方法
+### ユーザー登録
+#### 1.トップページのヘッダーから新規登録を行う
+### 知りたいバッグを検索する。
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
+#アプリケーションを作成した背景
+#### 自身の現職であるバッグの販売をしている中で『バッグを購入する際に参考になるアプリがあれば今よりもバッグに購入がし易くなるのではないか』と思い開発を決意した。また、専門的な商品情報等は商品のホームページでも確認できるが実際のユーザーの使い心地等は確認できないので、そういった情報に特化したアプリの必要性を感じた。
 
 # テーブル設計
 
