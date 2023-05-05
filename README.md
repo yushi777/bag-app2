@@ -29,6 +29,13 @@
 
 #### ・ヘッダーより新規投稿画面へ遷移できます。
 
+![abf760309ad6b2cf6af859a9ff00ce5a](https://user-images.githubusercontent.com/117723475/236442018-1e95710a-feab-4f99-88c4-8e7532b96aa5.gif)
+
+# ローカルでの動作方法
+
+#### 以下のコマンドを順に実行
+#### git clone https://github.com/
+
 
 
 
