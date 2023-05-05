@@ -34,9 +34,13 @@
 # ローカルでの動作方法
 
 #### 以下のコマンドを順に実行
-#### git clone https://github.com/
+#### % git clone https://github.com/yushi777/bag-app2
+#### % cd bag-app2
+#### % bundle install
+#### % yarn install
 
-
+#　今後導入したい機能
+#### まだ作成途中なので検索機能を今後導入しより使い易くしていきたい。
 
 
 
